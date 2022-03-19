@@ -1,2 +1,2 @@
-# bossbot
+# Boss Bot
 Discord Boss Bot
