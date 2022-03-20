@@ -1,10 +1,10 @@
 # Boss Bot
-Boss sunucunuz için gerekli olan tüm özelliklerin bir araya getiren bir bot bir.\n
-![bossbot](https://user-images.githubusercontent.com/44214206/159145998-afb7115b-eb5c-402b-be7f-7aa77e20013c.png)\n
-Eklemek için : https://discord.com/api/oauth2/authorize?client_id=602210849481818113&permissions=8&scope=bot \n
-İşte botun komutları;\n
+Boss sunucunuz için gerekli olan tüm özelliklerin bir araya getiren bir bot bir.  
+![bossbot](https://user-images.githubusercontent.com/44214206/159145998-afb7115b-eb5c-402b-be7f-7aa77e20013c.png)  
+Eklemek için : https://discord.com/api/oauth2/authorize?client_id=602210849481818113&permissions=8&scope=bot  
+İşte botun komutları;  
 
-MODERASYON\n
+MODERASYON  
 
 !bosslogkanali
 !temizle
@@ -31,7 +31,7 @@ MODERASYON\n
 !yetkikaldır
 !yetkiler
 
-GENEL\n
+GENEL  
 
 !top20sunucu
 !havadurumu
@@ -46,7 +46,7 @@ GENEL\n
 !ping
 !tdk
 
-PUAN SİSTEMİ
+PUAN SİSTEMİ  
 
 !puan
 !puanstats
@@ -54,15 +54,15 @@ PUAN SİSTEMİ
 !puanreset
 !puanyarisireset
 
-TWİTCH DUYURU
+TWİTCH DUYURU  
 
 !twitch
 
-İNVİTE SİSTEMİ
+İNVİTE SİSTEMİ  
 
 !invitekanali
 
-DİĞER
+DİĞER  
 
 !bildir
 !yardım
